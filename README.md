@@ -1,28 +1,18 @@
-# Muhammad Hamza Zia
-## Aspiring Data Scientist | Islamabad
+# 💫 About Me:
+Muhammad Hamza Zia<br>Aspiring Data Scientist | Islamabad<br><br>📞 +92 327 6505558 | ✉️ hzia1941@gmail.com<br><br>I am a highly motivated and detail-oriented Data Scientist with a robust educational background in Computer Science, Physics, and Mathematics. I hold a certification in Data Science from the Boston Institute of Analytics, which has enhanced my proficiency in programming, data analysis, and visualization. My expertise lies in applying machine learning and deep learning methodologies, as well as fine-tuning Large Language Models (LLMs) to solve complex problems.<br><br>Skills:<br><br>Programming & Data Analysis: Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn<br><br>Data Visualization: Power BI, Tableau<br><br>Machine Learning & Deep Learning: Neural Networks, Generative AI<br><br>Additional Skills: Microsoft Excel, Mathematics, Organizational Skills, Social Skills<br><br>Key Project:<br><br>Sentiment Detection by Audio Files: Developed a deep learning model to detect sentiment from audio files, achieving an accuracy of 78%. This project involved data preprocessing, feature extraction using the MFCC method, and model training and evaluation.<br><br>I am an excellent communicator and a collaborative team player, seeking to leverage my technical skills and gain practical experience in a dynamic data science role. My goal is to drive impactful insights and solutions through innovative data science techniques.
 
-## 📞 +92 327 6505558 | ✉️ hzia1941@gmail.com
 
-I am an ambitious and detail-oriented Data Scientist with a solid educational foundation in Computer Science, Physics, and Mathematics. Certified in Data Science from the Boston Institute of Analytics, I possess advanced skills in programming, data analysis, and visualization. My expertise includes the application of machine learning and deep learning methodologies, and the fine-tuning of Large Language Models (LLMs) to tackle complex problems.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihamza_zia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hamza-zia-788093325) 
 
-### Technical Skills:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hamza-Ziaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Ziaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ziaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Programming Languages: Python, SQL
+---
+[![](https://visitcount.itsvg.in/api?id=Hamza-Ziaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Libraries and Tools: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
-
-Data Visualization: Power BI, Tableau
-
-Machine Learning & AI: Neural Networks, Generative AI, Deep Learning
-
-Other Skills: Microsoft Excel, Mathematics, Organizational Skills, Social Skills
-
-### Notable Projects:
-
-VoiceSentiment Insight: Developed a deep learning model achieving 78% accuracy in sentiment classification. This involved meticulous data preprocessing, feature extraction using the MFCC method, and extensive model training and evaluation.
-
-### Certifications:
-
-Data Science and Artificial Intelligence: Boston Institute of Analytics
-
-I am a highly effective communicator and a collaborative team player, dedicated to leveraging my technical skills to drive impactful data science solutions. I am keen to engage in challenging roles that allow me to further hone my expertise and contribute to innovative projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
